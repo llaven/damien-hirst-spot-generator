@@ -17,4 +17,5 @@ Steps
 
 Inspirational ideas
 -------------------
-Visit: http://www.damienhirst.com/texts1/series/spots
+* http://www.damienhirst.com/texts1/series/spots
+* https://www.youtube.com/watch?v=Zq7WkSuTcrs
