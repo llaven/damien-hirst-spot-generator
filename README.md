@@ -19,3 +19,4 @@ Inspirational ideas
 -------------------
 * http://www.damienhirst.com/texts1/series/spots
 * https://www.youtube.com/watch?v=Zq7WkSuTcrs
+* https://www.youtube.com/watch?v=0VIm9_Vwfic (Analogic Generator :-P )
