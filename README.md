@@ -12,3 +12,7 @@ Steps
 4. Run
 5. Take Screenshot and share you work (if you like) with the hashtag #DHspg
 6. Have fun!
+
+Inspirational ideas
+-------------------
+Visit: http://www.damienhirst.com/texts1/series/spots
