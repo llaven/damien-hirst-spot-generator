@@ -13,7 +13,7 @@ Steps
 5. Take Screenshot and share you work (if you like) with the hashtag #DHspg
 6. Have fun!
 
-![Damien Hirst Generator in action](https://pbs.twimg.com/media/DQlDvbHUIAE9o_I.jpg "Screenshot")
+![Damien Hirst Generator in action](https://pbs.twimg.com/media/DQlB3weVoAE8kwG.jpg "Screenshot")
 
 Inspirational ideas
 -------------------
