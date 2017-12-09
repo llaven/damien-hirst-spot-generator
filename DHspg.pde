@@ -16,11 +16,15 @@ float colorB = random(250);
 
 // Inicializando algunas cosillas del programita
 void setup(){ 
- sizeSpot = 20;
+   
+  
+  sizeSpot = 5; // Inspirational Art value, play with this value and make Art!!!
+
+ 
  fullScreen();
  background(255);
- posicionX = tamanoSpot/2;
- posicionY = tamanoSpot/2;
+ posicionX = sizeSpot/2;
+ posicionY = sizeSpot/2;
 }
 
  void draw(){  
@@ -34,10 +38,10 @@ void setup(){
  }
  */
  
- c1 = color(colorR, colorG, colorB);
+ coloring = color(colorR, colorG, colorB);
  fill(coloring);
  noStroke();
- ellipse(posicionX, posicionY, tamanoSpot, tamanoSpot);
+ ellipse(posicionX, posicionY, sizeSpot, sizeSpot);
  
   if (posicionX <= displayWidth){
    posicionX = posicionX + sizeSpot + sizeSpot;
@@ -45,7 +49,7 @@ void setup(){
    colorG = random(250);
    colorB = random(250);
   }else{
-    posicionX = tamanoSpot/2;
+    posicionX = sizeSpot/2;
     posicionY = posicionY + sizeSpot + sizeSpot;
   }
 
