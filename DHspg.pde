@@ -28,15 +28,6 @@ void setup(){
 }
 
  void draw(){  
-
-   /*
- if(posicionX != displayWidth - tamanoSpot/2){
- posicionX = posicionX + tamanoSpot + tamanoSpot;
- }else{  
-    posicionX = tamanoSpot/2;
-    c1 = color(random(255), random(255), random(255));
- }
- */
  
  coloring = color(colorR, colorG, colorB);
  fill(coloring);
