@@ -1,4 +1,4 @@
-# Damien Hirst Spot Generator
+# Damien Hirst Spot Painting Generator
 Safe Money in art collection!!
 
 With this fabulous DHspg (Damien Hirst Spot Painting Generator) you can make your own Contemporany Art collection with low budget!!
@@ -6,7 +6,7 @@ With this fabulous DHspg (Damien Hirst Spot Painting Generator) you can make you
 Steps
 -----
 
-1. Download Processing
+1. Download Processing (https://processing.org/)
 2. Download DHspg code
 3. Chance sizeSpot variable (Art value)
 4. Run
