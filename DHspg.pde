@@ -1,6 +1,6 @@
 /*
 Program: Safe money!! Damien Hirst Spot Painting Generator (DHspg)
-Description: Safe a lot money and make your own Spot Painting like Damien Hirst!! :-)
+Description: Safe a lot money and make your own Spot Painting like Damien Hirst!! :-P
 Author: Emilio Ruiz (www.emilio.com.mx)
 */
 
